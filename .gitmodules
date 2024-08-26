@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ajayfoo/college-record-keeper-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ajayfoo/college-record-keeper-backend
