@@ -14,3 +14,5 @@ An internal web app for college faculties that can
 ![Imgur](https://i.imgur.com/7o8tH9F.png)
 5. Search Page(searched Vinoth)  
 ![Imgur](https://i.imgur.com/dXgLzC5.png)
+6. Sample Generate Report  
+![Imgur](https://imgur.com/Qnd1UJ6.jpg)
